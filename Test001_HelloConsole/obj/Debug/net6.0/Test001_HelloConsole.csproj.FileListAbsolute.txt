@@ -1,0 +1,15 @@
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/obj/Debug/net6.0/Test001_HelloConsole.csproj.AssemblyReference.cache
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/obj/Debug/net6.0/Test001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/obj/Debug/net6.0/Test001_HelloConsole.AssemblyInfoInputs.cache
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/obj/Debug/net6.0/Test001_HelloConsole.AssemblyInfo.cs
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/obj/Debug/net6.0/Test001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/bin/Debug/net6.0/Test001_HelloConsole
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/bin/Debug/net6.0/Test001_HelloConsole.deps.json
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/bin/Debug/net6.0/Test001_HelloConsole.runtimeconfig.json
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/bin/Debug/net6.0/Test001_HelloConsole.dll
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/bin/Debug/net6.0/Test001_HelloConsole.pdb
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/obj/Debug/net6.0/Test001_HelloConsole.dll
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/obj/Debug/net6.0/refint/Test001_HelloConsole.dll
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/obj/Debug/net6.0/Test001_HelloConsole.pdb
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/obj/Debug/net6.0/Test001_HelloConsole.genruntimeconfig.cache
+/Users/aleksejkaluznyj/Desktop/TESTS/Test001_HelloConsole/obj/Debug/net6.0/ref/Test001_HelloConsole.dll
