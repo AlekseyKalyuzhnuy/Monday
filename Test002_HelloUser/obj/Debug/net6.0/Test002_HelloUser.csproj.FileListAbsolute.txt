@@ -1,0 +1,15 @@
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/obj/Debug/net6.0/Test002_HelloUser.csproj.AssemblyReference.cache
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/obj/Debug/net6.0/Test002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/obj/Debug/net6.0/Test002_HelloUser.AssemblyInfoInputs.cache
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/obj/Debug/net6.0/Test002_HelloUser.AssemblyInfo.cs
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/obj/Debug/net6.0/Test002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/bin/Debug/net6.0/Test002_HelloUser
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/bin/Debug/net6.0/Test002_HelloUser.deps.json
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/bin/Debug/net6.0/Test002_HelloUser.runtimeconfig.json
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/bin/Debug/net6.0/Test002_HelloUser.dll
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/bin/Debug/net6.0/Test002_HelloUser.pdb
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/obj/Debug/net6.0/Test002_HelloUser.dll
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/obj/Debug/net6.0/refint/Test002_HelloUser.dll
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/obj/Debug/net6.0/Test002_HelloUser.pdb
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/obj/Debug/net6.0/Test002_HelloUser.genruntimeconfig.cache
+/Users/aleksejkaluznyj/Desktop/TESTS/Test002_HelloUser/obj/Debug/net6.0/ref/Test002_HelloUser.dll
